@@ -14,7 +14,7 @@ function redirectToLogin()
 
 function redirectToImportantPage()
 {
-    header('Location: ../view/table.php');
+    header('Location: table.php');
     exit();
 }
 
@@ -37,7 +37,7 @@ if (isset($_GET['member'])) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Robotik IPB Cirebon</title>
+    <title>Nawasena</title>
     <meta name="title" content="Bootsrap">
     <!--     
     - favicon 
@@ -54,7 +54,7 @@ if (isset($_GET['member'])) {
     <!-- 
     - custom css link
   -->
-    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="app.css">
 
     <!-- 
     - google font link
@@ -782,7 +782,7 @@ if (isset($_GET['member'])) {
                     <div class="wrapper">
                         <span class="span">Email:</span>
 
-                        <a href="mailto:info@eduweb.com" class="footer-link">robotik@gmail.com</a>
+                        <a href="mailto:poeradiredja12@gmail.com" class="footer-link">poeradiredja12@gmail.com</a>
                     </div>
 
                 </div>
@@ -790,7 +790,7 @@ if (isset($_GET['member'])) {
                 <ul class="footer-list">
 
                     <li>
-                        <p class="footer-list-title">Online Platform</p>
+                        <p class="footer-list-title">Platform</p>
                     </li>
 
                     <li>
@@ -867,31 +867,31 @@ if (isset($_GET['member'])) {
                     <ul class="social-list">
 
                         <li>
-                            <a href="#" class="social-link">
+                            <a href="https://www.facebook.com/profile.php?id=100077335178999" class="social-link">
                                 <ion-icon name="logo-facebook"></ion-icon>
                             </a>
                         </li>
 
                         <li>
-                            <a href="#" class="social-link">
+                            <a href="https://www.linkedin.com/in/poeradiredja-%E3%83%84-3b62b229a" class="social-link">
                                 <ion-icon name="logo-linkedin"></ion-icon>
                             </a>
                         </li>
 
                         <li>
-                            <a href="#" class="social-link">
+                            <a href="https://www.instagram.com/muhamadluthfi57030/" class="social-link">
                                 <ion-icon name="logo-instagram"></ion-icon>
                             </a>
                         </li>
 
                         <li>
-                            <a href="#" class="social-link">
+                            <a href="404.html" class="social-link">
                                 <ion-icon name="logo-twitter"></ion-icon>
                             </a>
                         </li>
 
                         <li>
-                            <a href="#" class="social-link">
+                            <a href="404.html" class="social-link">
                                 <ion-icon name="logo-youtube"></ion-icon>
                             </a>
                         </li>
