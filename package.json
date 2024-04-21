@@ -1,0 +1,23 @@
+{
+  "name": "robotik",
+  "version": "1.0.0",
+  "description": "Saya membuat project ini untuk mendapat experience dalam membuat website ",
+  "main": "app.php",
+  "scripts": {
+    "start": "php app.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LTHF25/LTHF25.git"
+  },
+  "keywords": [
+    "web",
+    "robotikporto"
+  ],
+  "author": "LTH.robo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LTHF25/LTHF25/issues"
+  },
+  "homepage": "https://github.com/LTHF25/LTHF25#readme"
+}
